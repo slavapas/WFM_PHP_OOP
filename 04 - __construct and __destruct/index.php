@@ -1,5 +1,7 @@
 <?php
 
+	use classes\Car;
+
 	require_once 'classes/Car.php';
 
 //	echo 'hi';
